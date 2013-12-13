@@ -3,7 +3,7 @@
 	
 <info>
    <title>
-   Acceso SSH Dario
+   Actividades Dario
    </title>
    <author>
 		<personname>
@@ -16,6 +16,8 @@
 
 
 <xi:include href="files/activity1.xml" />
+
+<xi:include href="files/activity3.xml" />
 
 </book>
 
