@@ -16,7 +16,7 @@
 
 
 <xi:include href="files/activity1.xml" />
-
+<xi:include href="files/activity2.xml" />
 <xi:include href="files/activity3.xml" />
 
 </book>

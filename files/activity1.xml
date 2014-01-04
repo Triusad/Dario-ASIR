@@ -97,7 +97,7 @@ Cambiamos el nombre de la máquina a “SSH-SERVER-DMG”(Darío Marrero Glez) y
 		</mediaobject>
     </section>
 	<section>
-		<title>Paso 2</title>
+		<title>Configurando el cliente Windows 7</title>
 		
 		<para> Añadimos en C:\Windows\System32\drivers\etc\hosts el equipo ssh-server-dmg y ssh-client.</para>
 		<mediaobject>
